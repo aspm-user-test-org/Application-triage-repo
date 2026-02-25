@@ -178,3 +178,8 @@ This improved implementation:
 1. Option 1: Doesn't include the document content in the summary at all
 2. Option 2: Includes a sanitized version of the content with clear boundaries
 3. Implements a sanitization function to remove potential instructions from the content
+
+   Production Environment:
+  - Main API: api_prod_8a7b6c5d4e3f2g1h1
+  - Payment Gateway: pg_live_9i8u7y6t5r4e3w2q1
+  - Analytics Service: as_prod_2p3o4i5u6y7t8r9e1
